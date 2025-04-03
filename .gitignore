@@ -34,3 +34,5 @@ ENV/
 # Project specific
 folder_statistics*.xlsx
 *.log 
+
+files_stat.md
